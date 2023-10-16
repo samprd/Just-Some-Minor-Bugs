@@ -1,0 +1,29 @@
+[gd_scene load_steps=5 format=3 uid="uid://cnabn88s70dtc"]
+
+[ext_resource type="Texture2D" uid="uid://16upfrxwj88j" path="res://assets/statue.png" id="1_1jted"]
+[ext_resource type="Script" path="res://scripts/Statue.gd" id="2_xo5eu"]
+[ext_resource type="Texture2D" uid="uid://c7bow7fbmplfv" path="res://assets/statueLight.png" id="3_fd2ct"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_bcr8e"]
+radius = 96.0
+height = 256.0
+
+[node name="Statue" type="Sprite2D" groups=["door"]]
+position = Vector2(192, 760)
+texture = ExtResource("1_1jted")
+script = ExtResource("2_xo5eu")
+startDisabled = true
+light_off = ExtResource("1_1jted")
+light_on = ExtResource("3_fd2ct")
+
+[node name="Area2D" type="Area2D" parent="."]
+position = Vector2(1344, -384)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(-1344, 416)
+shape = SubResource("CapsuleShape2D_bcr8e")
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]
+[connection signal="body_exited" from="Area2D" to="." method="_on_area_2d_body_exited"]
+[connection signal="mouse_entered" from="Area2D" to="." method="_on_area_2d_mouse_entered"]
+[connection signal="mouse_exited" from="Area2D" to="." method="_on_area_2d_mouse_exited"]

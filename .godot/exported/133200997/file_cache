@@ -1,0 +1,17 @@
+res://assets/door.tres::425534546c0b01708b652933c737e9d8::1694252272::res://.godot/exported/133200997/export-cfd0013d27fc6e14d002a6b94a523654-door.res
+res://assets/level.tres::5198f4e0d45863200f7afaa6676f3e33::1694251997::res://.godot/exported/133200997/export-e3d0974b58dae06a4bd5e99e7742a963-level.res
+res://assets/noCollision.tres::911abe7ac96dd6aa73f45599dce9e899::1694252138::res://.godot/exported/133200997/export-ba27047def1db8559e9605c066a19be9-noCollision.res
+res://assets/subtitle.tres::e4c9eb756dfef33848a2da644b08eed5::1689585458::res://.godot/exported/133200997/export-46d6358aa1186e374e9063c2527b1ff8-subtitle.res
+res://assets/text.tres::650495233d1231cac4be06951cb948eb::1689646143::res://.godot/exported/133200997/export-912900480628468a869f4def7f65e037-text.res
+res://assets/title.tres::96ed9ac7a6adba5707a48a311a8d4402::1689585415::res://.godot/exported/133200997/export-9199843c14c43b7f497c69705599b0eb-title.res
+res://objects/breakable_block.tscn::23ac7cbc07939f603b7cac3a545a0267::1690171125::res://.godot/exported/133200997/export-446f34ce4fadfa7a4d645b21b9eb35b8-breakable_block.scn
+res://objects/player.tscn::46092bedd6b4525296bc108129c09224::1689928084::res://.godot/exported/133200997/export-fd917217c4a5592248a679abd5f3a5fe-player.scn
+res://objects/SceneTransitionRect.tscn::4ab3c7bad0b8daa69db42318d4aef6e8::1691315009::res://.godot/exported/133200997/export-7b43f29f1665a5ede3e00e053158fd25-SceneTransitionRect.scn
+res://objects/statue.tscn::d6608aa22ec9f911883a0e1dbc681101::1690073214::res://.godot/exported/133200997/export-766ba9f080ed67c0982931e8fab10577-statue.scn
+res://level_1.tscn::777958bbd6082d93a5b8883e7fe0efb7::1694181815::res://.godot/exported/133200997/export-63309efd344a9c730c2375c6c1edaf63-level_1.scn
+res://level_2.tscn::9b3199cc52fa877255bbd4fe4de634c2::1694179445::res://.godot/exported/133200997/export-f232880c53f78a005d817f1d8d602f60-level_2.scn
+res://level_3.tscn::bd375c62c66ff420c83defd955be1677::1694179453::res://.godot/exported/133200997/export-78ee6155194928ba67dfe0fde84cf4d7-level_3.scn
+res://level_4.tscn::752534b4dde64aab8e62d38ce5e3a69e::1694252272::res://.godot/exported/133200997/export-a5c17425eca0b61b001d3a17f3cba1b8-level_4.scn
+res://level_5.tscn::272dab4818b8144bade92cf8c0f42e0e::1694251805::res://.godot/exported/133200997/export-ff904f8b86543902bc4af89b35e2cb85-level_5.scn
+res://level_6.tscn::ee5d74c6460f1fc491851276dfac6aa5::1694252301::res://.godot/exported/133200997/export-cc26e2ba071f011bfd34f11b44939183-level_6.scn
+res://menu.tscn::854e635f529fd59e2eb64274df0c9fb4::1694252219::res://.godot/exported/133200997/export-a4951207776b25ee5c8b2b05c1463587-menu.scn

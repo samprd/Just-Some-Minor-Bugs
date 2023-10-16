@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://qptg45ah4jvf"]
+
+[ext_resource type="FontFile" uid="uid://cifmri3x0rawv" path="res://assets/TitilliumWebbold-B1nd.ttf" id="1_h2mx7"]
+
+[resource]
+default_font = ExtResource("1_h2mx7")
+default_font_size = 144
