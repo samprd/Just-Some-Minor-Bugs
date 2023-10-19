@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1697453543
+::res://::1697706532
 export_presets.cfg::TextFile::-1::1694253798::0::1::::<><>::
 icon.svg::CompressedTexture2D::5588206814412772100::1694231687::1694231692::1::::<><>::
 level_1.tscn::PackedScene::4220594633772847708::1694181815::0::1::::<><>::uid://c1qeyw8dvuyr0
@@ -10,7 +10,7 @@ level_5.tscn::PackedScene::4597229138513232004::1694251805::0::1::::<><>::uid://
 level_6.tscn::PackedScene::6383763362740662850::1694252301::0::1::::<><>::uid://c1qeyw8dvuyr0::::res://objects/SceneTransitionRect.tscn<>res://scripts/CraftingMenu.gd<>uid://c3yintqambxpj::::res://assets/tileItem.png<>uid://88jufvgaxeo0::::res://assets/text.tres<>uid://263sileq8ce0::::res://assets/hills.png<>uid://cfbnk2tvsgp5i::::res://assets/tiles.png<>uid://cnabn88s70dtc::::res://objects/statue.tscn<>uid://bpbylwdslrjnv::::res://assets/level.tres<>res://scripts/StatueManager.gd<>res://scripts/StatueSlot.gd<>res://scripts/Exit.gd<>uid://bvp37amvoacxg::::res://assets/noCollision.tres<>res://scripts/SecretNoCollision.gd<>res://scripts/Camera2D.gd<>uid://ccajmf6v5hxgy::::res://objects/player.tscn<>res://scripts/BlockHandler.gd<>uid://djqn6ki2rsqag::::res://objects/breakable_block.tscn
 menu.tscn::PackedScene::2300093723334831513::1694252219::0::1::::<><>::res://scripts/menu.gd<>uid://c1qeyw8dvuyr0::::res://objects/SceneTransitionRect.tscn<>uid://qptg45ah4jvf::::res://assets/title.tres<>uid://di27dnuurrglr::::res://assets/subtitle.tres
 README.md::TextFile::-1::1697453386::0::1::::<><>::
-::res://assets/::1697453493
+::res://assets/::1697705543
 bkg.png::CompressedTexture2D::2061076550229311489::1452082060::1694231701::1::::<><>::
 door.png::CompressedTexture2D::6943054432347183191::1689747040::1694231701::1::::<><>::
 door.tres::TileSet::6537409689226095375::1694252272::0::1::::<><>::uid://d8cljomitljc::::res://assets/level_tilesheet.png
@@ -32,42 +32,42 @@ TitilliumWeb-1eq2.ttf::FontFile::7977563129092802718::1670094696::1694231701::1:
 TitilliumWebbold-B1nd.ttf::FontFile::5345433432190757753::1670094696::1694231701::1::::<><>::
 TitilliumWebsemibold-Kv2y.ttf::FontFile::8090288863507527374::1670094696::1694231701::1::::<><>::
 title.tres::Theme::1155153071677198923::1689585415::0::1::::<><>::uid://cifmri3x0rawv
-::res://assets/breaking/::1697453513
+::res://assets/breaking/::1697705543
 break1.png::CompressedTexture2D::3184950151821721531::1689645792::1694231701::1::::<><>::
 break2.png::CompressedTexture2D::7013639306107311586::1689645788::1694231701::1::::<><>::
 break3.png::CompressedTexture2D::8445617390490244388::1689645794::1694231701::1::::<><>::
 break4.png::CompressedTexture2D::3732521841427234782::1689645796::1694231701::1::::<><>::
 break5.png::CompressedTexture2D::8639011067645397145::1689645790::1694231701::1::::<><>::
 break6.png::CompressedTexture2D::8524848109745522332::1689645797::1694231701::1::::<><>::
-::res://assets/controls/::1697453513
+::res://assets/controls/::1697705543
 craft.png::CompressedTexture2D::6830845448918804268::1689746763::1694231701::1::::<><>::
 LMB.png::CompressedTexture2D::3350742588409170139::1690077422::1694231701::1::::<><>::
 Space.png::CompressedTexture2D::759824313434800352::1689746785::1694231701::1::::<><>::
-::res://assets/controls/arrows/::1697453513
+::res://assets/controls/arrows/::1697705543
 Arrow Down.png::CompressedTexture2D::6591831192397467766::1689746782::1694231701::1::::<><>::
 Arrow Left.png::CompressedTexture2D::6175018564305082119::1689746770::1694231701::1::::<><>::
 Arrow Right.png::CompressedTexture2D::4619656332900788197::1689746774::1694231701::1::::<><>::
 Arrow Up.png::CompressedTexture2D::6163196512056428875::1689746756::1694231701::1::::<><>::
-::res://assets/controls/interact/::1697453513
+::res://assets/controls/interact/::1697705543
 E.png::CompressedTexture2D::9104834236017717952::1689651964::1694231701::1::::<><>::
 Enter.png::CompressedTexture2D::8553849356072499536::1689746778::1694231701::1::::<><>::
-::res://assets/controls/wasd/::1697453513
+::res://assets/controls/wasd/::1697705543
 A.png::CompressedTexture2D::650053619944236761::1689746793::1694231701::1::::<><>::
 D.png::CompressedTexture2D::7427709350829654619::1689746760::1694231701::1::::<><>::
 S.png::CompressedTexture2D::4662237492536866937::1689746767::1694231701::1::::<><>::
 W.png::CompressedTexture2D::1661070121809189469::1689746790::1694231701::1::::<><>::
-::res://assets/player/::1697453513
+::res://assets/player/::1697705543
 idle.png::CompressedTexture2D::3698229871331150381::1689651354::1694231701::1::::<><>::
 jump.png::CompressedTexture2D::6257068044725722213::1689651356::1694231701::1::::<><>::
 walk1.png::CompressedTexture2D::1295722039691953199::1689651357::1694231701::1::::<><>::
 walk2.png::CompressedTexture2D::1450230409381608232::1689651358::1694231701::1::::<><>::
 walk3.png::CompressedTexture2D::3393257311334780400::1689651359::1694231701::1::::<><>::
-::res://objects/::1697453484
+::res://objects/::1697705544
 breakable_block.tscn::PackedScene::7824836907245703750::1690171125::0::1::::<><>::res://scripts/BreakableBlock.gd<>uid://cye0amnnax0ws
 player.tscn::PackedScene::4913787248624247352::1689928084::0::1::::<><>::res://scripts/player.gd<>uid://bsxpknl1bmoaf
 SceneTransitionRect.tscn::PackedScene::6631068279722216523::1691315009::0::1::::<><>::res://scripts/SceneTransitionRect.gdshader<>res://scripts/SceneTransitionRect.gd
 statue.tscn::PackedScene::5685382052104840796::1690073214::0::1::::<><>::uid://16upfrxwj88j
-::res://scripts/::1697453484
+::res://scripts/::1697705544
 BlockHandler.gd::GDScript::-1::1689746062::0::1::::<>Node<>::
 BreakableBlock.gd::GDScript::-1::1690170812::0::1::::<>StaticBody2D<>::
 Camera2D.gd::GDScript::-1::1689747973::0::1::::<>Camera2D<>::
