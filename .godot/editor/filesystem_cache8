@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1706933027
+::res://::1706933215
 export_presets.cfg::TextFile::-1::1694253798::0::1::::<><>::
 icon.svg::CompressedTexture2D::5588206814412772100::1694231687::1697714188::1::::<><>::
 level_1.tscn::PackedScene::4220594633772847708::1694181815::0::1::::<><>::uid://c1qeyw8dvuyr0::::res://objects/SceneTransitionRect.tscn<>uid://cfbnk2tvsgp5i::::res://assets/tiles.png<>uid://263sileq8ce0::::res://assets/hills.png<>uid://bpbylwdslrjnv::::res://assets/level.tres<>uid://bvp37amvoacxg::::res://assets/noCollision.tres<>res://scripts/SecretNoCollision.gd<>uid://c0e1gg6f55cvn::::res://assets/door.tres<>res://scripts/Door.gd<>uid://d2ypj321yn7n5::::res://assets/controls/interact/E.png<>res://scripts/ControlIndicator.gd<>res://scripts/Camera2D.gd<>uid://ccajmf6v5hxgy::::res://objects/player.tscn<>uid://88jufvgaxeo0::::res://assets/text.tres
