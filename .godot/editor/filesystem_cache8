@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1697714186
+::res://::1706933027
 export_presets.cfg::TextFile::-1::1694253798::0::1::::<><>::
 icon.svg::CompressedTexture2D::5588206814412772100::1694231687::1697714188::1::::<><>::
 level_1.tscn::PackedScene::4220594633772847708::1694181815::0::1::::<><>::uid://c1qeyw8dvuyr0::::res://objects/SceneTransitionRect.tscn<>uid://cfbnk2tvsgp5i::::res://assets/tiles.png<>uid://263sileq8ce0::::res://assets/hills.png<>uid://bpbylwdslrjnv::::res://assets/level.tres<>uid://bvp37amvoacxg::::res://assets/noCollision.tres<>res://scripts/SecretNoCollision.gd<>uid://c0e1gg6f55cvn::::res://assets/door.tres<>res://scripts/Door.gd<>uid://d2ypj321yn7n5::::res://assets/controls/interact/E.png<>res://scripts/ControlIndicator.gd<>res://scripts/Camera2D.gd<>uid://ccajmf6v5hxgy::::res://objects/player.tscn<>uid://88jufvgaxeo0::::res://assets/text.tres
@@ -8,9 +8,9 @@ level_3.tscn::PackedScene::8944829079794798806::1694179453::0::1::::<><>::uid://
 level_4.tscn::PackedScene::6046223098421636832::1694252272::0::1::::<><>::uid://c1qeyw8dvuyr0::::res://objects/SceneTransitionRect.tscn<>uid://263sileq8ce0::::res://assets/hills.png<>uid://cfbnk2tvsgp5i::::res://assets/tiles.png<>uid://bpbylwdslrjnv::::res://assets/level.tres<>uid://c0e1gg6f55cvn::::res://assets/door.tres<>uid://bvp37amvoacxg::::res://assets/noCollision.tres<>res://scripts/SecretNoCollision.gd<>uid://88jufvgaxeo0::::res://assets/text.tres<>uid://bn0eigpuugjd8::::res://assets/controls/LMB.png<>res://scripts/Door.gd<>res://scripts/ControlIndicator.gd<>res://scripts/Camera2D.gd<>uid://ccajmf6v5hxgy::::res://objects/player.tscn
 level_5.tscn::PackedScene::4597229138513232004::1694251805::0::1::::<><>::uid://c1qeyw8dvuyr0::::res://objects/SceneTransitionRect.tscn<>uid://263sileq8ce0::::res://assets/hills.png<>res://scripts/CraftingMenu.gd<>uid://cfbnk2tvsgp5i::::res://assets/tiles.png<>uid://c3yintqambxpj::::res://assets/tileItem.png<>res://scripts/SecretNoCollision.gd<>res://scripts/Door.gd<>uid://bpbylwdslrjnv::::res://assets/level.tres<>uid://c0e1gg6f55cvn::::res://assets/door.tres<>res://scripts/ControlIndicator.gd<>res://scripts/Camera2D.gd<>uid://d2ypj321yn7n5::::res://assets/controls/interact/E.png<>uid://88jufvgaxeo0::::res://assets/text.tres<>res://scripts/DoorSlot.gd<>uid://ccajmf6v5hxgy::::res://objects/player.tscn<>uid://bvp37amvoacxg::::res://assets/noCollision.tres<>res://scripts/BlockHandler.gd<>uid://djqn6ki2rsqag::::res://objects/breakable_block.tscn
 level_6.tscn::PackedScene::6383763362740662850::1694252301::0::1::::<><>::uid://c1qeyw8dvuyr0::::res://objects/SceneTransitionRect.tscn<>res://scripts/CraftingMenu.gd<>uid://c3yintqambxpj::::res://assets/tileItem.png<>uid://88jufvgaxeo0::::res://assets/text.tres<>uid://263sileq8ce0::::res://assets/hills.png<>uid://cfbnk2tvsgp5i::::res://assets/tiles.png<>uid://cnabn88s70dtc::::res://objects/statue.tscn<>uid://bpbylwdslrjnv::::res://assets/level.tres<>res://scripts/StatueManager.gd<>res://scripts/StatueSlot.gd<>res://scripts/Exit.gd<>uid://bvp37amvoacxg::::res://assets/noCollision.tres<>res://scripts/SecretNoCollision.gd<>res://scripts/Camera2D.gd<>uid://ccajmf6v5hxgy::::res://objects/player.tscn<>res://scripts/BlockHandler.gd<>uid://djqn6ki2rsqag::::res://objects/breakable_block.tscn
-menu.tscn::PackedScene::2300093723334831513::1697707120::0::1::::<><>::res://scripts/menu.gd<>uid://c1qeyw8dvuyr0::::res://objects/SceneTransitionRect.tscn<>uid://qptg45ah4jvf::::res://assets/title.tres<>uid://di27dnuurrglr::::res://assets/subtitle.tres
+menu.tscn::PackedScene::2300093723334831513::1706932996::0::1::::<><>::res://scripts/menu.gd<>uid://c1qeyw8dvuyr0::::res://objects/SceneTransitionRect.tscn<>uid://qptg45ah4jvf::::res://assets/title.tres<>uid://di27dnuurrglr::::res://assets/subtitle.tres
 README.md::TextFile::-1::1697453386::0::1::::<><>::
-::res://assets/::1697705543
+::res://assets/::1706932220
 bkg.png::CompressedTexture2D::2061076550229311489::1452082060::1697714188::1::::<><>::
 door.png::CompressedTexture2D::6943054432347183191::1689747040::1697714188::1::::<><>::
 door.tres::TileSet::6537409689226095375::1694252272::0::1::::<><>::uid://d8cljomitljc::::res://assets/level_tilesheet.png
@@ -32,42 +32,42 @@ TitilliumWeb-1eq2.ttf::FontFile::7977563129092802718::1670094696::1697714188::1:
 TitilliumWebbold-B1nd.ttf::FontFile::5345433432190757753::1670094696::1697714188::1::::<><>::
 TitilliumWebsemibold-Kv2y.ttf::FontFile::8090288863507527374::1670094696::1697714188::1::::<><>::
 title.tres::Theme::1155153071677198923::1689585415::0::1::::<><>::uid://cifmri3x0rawv::::res://assets/TitilliumWebbold-B1nd.ttf
-::res://assets/breaking/::1697705543
+::res://assets/breaking/::1706932220
 break1.png::CompressedTexture2D::3184950151821721531::1689645792::1697714188::1::::<><>::
 break2.png::CompressedTexture2D::7013639306107311586::1689645788::1697714188::1::::<><>::
 break3.png::CompressedTexture2D::8445617390490244388::1689645794::1697714188::1::::<><>::
 break4.png::CompressedTexture2D::3732521841427234782::1689645796::1697714188::1::::<><>::
 break5.png::CompressedTexture2D::8639011067645397145::1689645790::1697714188::1::::<><>::
 break6.png::CompressedTexture2D::8524848109745522332::1689645797::1697714188::1::::<><>::
-::res://assets/controls/::1697705543
+::res://assets/controls/::1706932220
 craft.png::CompressedTexture2D::6830845448918804268::1689746763::1697714189::1::::<><>::
 LMB.png::CompressedTexture2D::3350742588409170139::1690077422::1697714189::1::::<><>::
 Space.png::CompressedTexture2D::759824313434800352::1689746785::1697714189::1::::<><>::
-::res://assets/controls/arrows/::1697705543
+::res://assets/controls/arrows/::1706932220
 Arrow Down.png::CompressedTexture2D::6591831192397467766::1689746782::1697714189::1::::<><>::
 Arrow Left.png::CompressedTexture2D::6175018564305082119::1689746770::1697714189::1::::<><>::
 Arrow Right.png::CompressedTexture2D::4619656332900788197::1689746774::1697714188::1::::<><>::
 Arrow Up.png::CompressedTexture2D::6163196512056428875::1689746756::1697714188::1::::<><>::
-::res://assets/controls/interact/::1697705543
+::res://assets/controls/interact/::1706932220
 E.png::CompressedTexture2D::9104834236017717952::1689651964::1697714189::1::::<><>::
 Enter.png::CompressedTexture2D::8553849356072499536::1689746778::1697714189::1::::<><>::
-::res://assets/controls/wasd/::1697705543
+::res://assets/controls/wasd/::1706932220
 A.png::CompressedTexture2D::650053619944236761::1689746793::1697714189::1::::<><>::
 D.png::CompressedTexture2D::7427709350829654619::1689746760::1697714189::1::::<><>::
 S.png::CompressedTexture2D::4662237492536866937::1689746767::1697714189::1::::<><>::
 W.png::CompressedTexture2D::1661070121809189469::1689746790::1697714189::1::::<><>::
-::res://assets/player/::1697705543
+::res://assets/player/::1706932220
 idle.png::CompressedTexture2D::3698229871331150381::1689651354::1697714188::1::::<><>::
 jump.png::CompressedTexture2D::6257068044725722213::1689651356::1697714188::1::::<><>::
 walk1.png::CompressedTexture2D::1295722039691953199::1689651357::1697714188::1::::<><>::
 walk2.png::CompressedTexture2D::1450230409381608232::1689651358::1697714188::1::::<><>::
 walk3.png::CompressedTexture2D::3393257311334780400::1689651359::1697714188::1::::<><>::
-::res://objects/::1697705544
+::res://objects/::1706932221
 breakable_block.tscn::PackedScene::7824836907245703750::1690171125::0::1::::<><>::res://scripts/BreakableBlock.gd<>uid://cye0amnnax0ws::::res://assets/tileBrown.png<>uid://blm2wtha0gos6::::res://assets/breaking/break1.png
 player.tscn::PackedScene::4913787248624247352::1689928084::0::1::::<><>::res://scripts/player.gd<>uid://bsxpknl1bmoaf::::res://assets/player/idle.png<>uid://spwl8x8qvwcl::::res://assets/player/walk1.png<>uid://cve7848rv1wan::::res://assets/player/jump.png<>uid://uwrc25yblaq7::::res://assets/player/walk2.png<>uid://bolypmxtehcvg::::res://assets/player/walk3.png
 SceneTransitionRect.tscn::PackedScene::6631068279722216523::1691315009::0::1::::<><>::res://scripts/SceneTransitionRect.gdshader<>res://scripts/SceneTransitionRect.gd
 statue.tscn::PackedScene::5685382052104840796::1690073214::0::1::::<><>::uid://16upfrxwj88j::::res://assets/statue.png<>res://scripts/Statue.gd<>uid://c7bow7fbmplfv::::res://assets/statueLight.png
-::res://scripts/::1697705544
+::res://scripts/::1706932221
 BlockHandler.gd::GDScript::-1::1689746062::0::1::::<>Node<>::
 BreakableBlock.gd::GDScript::-1::1690170812::0::1::::<>StaticBody2D<>::
 Camera2D.gd::GDScript::-1::1689747973::0::1::::<>Camera2D<>::

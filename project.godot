@@ -12,7 +12,7 @@ config_version=5
 
 config/name="MinorBuggs"
 run/main_scene="res://menu.tscn"
-config/features=PackedStringArray("4.1", "Forward Plus")
+config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
 
 [display]
@@ -62,4 +62,5 @@ mouse_click={
 
 [rendering]
 
+renderer/rendering_method="gl_compatibility"
 environment/defaults/default_clear_color=Color(0.556863, 0.431373, 0.32549, 1)
